@@ -1,0 +1,16 @@
+C:\Users\churchill paul\source\repos\day 20\mood analysier\mood analysier\bin\Debug\net5.0\mood analysier.exe
+C:\Users\churchill paul\source\repos\day 20\mood analysier\mood analysier\bin\Debug\net5.0\mood analysier.deps.json
+C:\Users\churchill paul\source\repos\day 20\mood analysier\mood analysier\bin\Debug\net5.0\mood analysier.runtimeconfig.json
+C:\Users\churchill paul\source\repos\day 20\mood analysier\mood analysier\bin\Debug\net5.0\mood analysier.runtimeconfig.dev.json
+C:\Users\churchill paul\source\repos\day 20\mood analysier\mood analysier\bin\Debug\net5.0\mood analysier.dll
+C:\Users\churchill paul\source\repos\day 20\mood analysier\mood analysier\bin\Debug\net5.0\mood analysier.pdb
+C:\Users\churchill paul\source\repos\day 20\mood analysier\mood analysier\obj\Debug\net5.0\mood analysier.csproj.AssemblyReference.cache
+C:\Users\churchill paul\source\repos\day 20\mood analysier\mood analysier\obj\Debug\net5.0\mood analysier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\churchill paul\source\repos\day 20\mood analysier\mood analysier\obj\Debug\net5.0\mood analysier.AssemblyInfoInputs.cache
+C:\Users\churchill paul\source\repos\day 20\mood analysier\mood analysier\obj\Debug\net5.0\mood analysier.AssemblyInfo.cs
+C:\Users\churchill paul\source\repos\day 20\mood analysier\mood analysier\obj\Debug\net5.0\mood analysier.csproj.CoreCompileInputs.cache
+C:\Users\churchill paul\source\repos\day 20\mood analysier\mood analysier\obj\Debug\net5.0\mood analysier.dll
+C:\Users\churchill paul\source\repos\day 20\mood analysier\mood analysier\obj\Debug\net5.0\refint\mood analysier.dll
+C:\Users\churchill paul\source\repos\day 20\mood analysier\mood analysier\obj\Debug\net5.0\mood analysier.pdb
+C:\Users\churchill paul\source\repos\day 20\mood analysier\mood analysier\obj\Debug\net5.0\mood analysier.genruntimeconfig.cache
+C:\Users\churchill paul\source\repos\day 20\mood analysier\mood analysier\obj\Debug\net5.0\ref\mood analysier.dll
